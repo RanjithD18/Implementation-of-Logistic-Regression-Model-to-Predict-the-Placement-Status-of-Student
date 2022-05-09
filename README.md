@@ -63,8 +63,10 @@ print(classification)
 ~~~
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(20).png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(21).png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(22).png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(23).png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
