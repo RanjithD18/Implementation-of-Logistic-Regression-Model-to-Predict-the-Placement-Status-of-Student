@@ -63,6 +63,8 @@ print(classification)
 ~~~
 
 ## Output:
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(18).png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(19).png)
 ![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(20).png)
 ![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(21).png)
 ![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/Screenshot%20(22).png)
