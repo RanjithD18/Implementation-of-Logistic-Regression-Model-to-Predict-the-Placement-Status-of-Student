@@ -66,10 +66,11 @@ print(classification)
 ~~~
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/1.png)<br>
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/2.png)<br>
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/3.png)<br>
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/4.png)<br>
+Head:<br>
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/1.png)<br>Predicted Values:<br>
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/2.png)<br>Accuracy:<br>
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/3.png)<br>Confusion Matrix:<br>
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/4.png)<br>Classification Report:<br>
 ![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/RanjithD18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/5.png)<br>
 
 ## Result:
